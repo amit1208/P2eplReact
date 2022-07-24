@@ -1,0 +1,1 @@
+mongodb+srv://Amit_MongoDB:<password>@cluster0.0alpo.mongodb.net/?retryWrites=true&w=majority
